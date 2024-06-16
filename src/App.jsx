@@ -4,7 +4,6 @@ import userData from './userData.json';
 import friends from './friends.json';
 
 function App() {
-  console.log(friends)
   return (
     <>
       <Profile
