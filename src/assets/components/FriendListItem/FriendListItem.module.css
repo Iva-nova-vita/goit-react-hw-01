@@ -1,0 +1,37 @@
+.card {
+    border-radius: 8px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+
+.avatar {
+    display: block;
+    width: 100px;
+    padding: 16px;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 26px;
+    margin: 8px;
+}
+
+.status {
+    text-align: center;
+    font-size: 18px;
+}
+
+.isOnline {
+color: green;
+}
+
+.isOffline {
+    color: red;
+}
+
+
+
+
+
+
